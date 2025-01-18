@@ -1,0 +1,27 @@
+Słowa
+
+max mfcc
+SVM = 0.86
+
+max spectral 
+rm = 0.816
+
+max zcr 
+rm = 0.35
+
+max chroma
+rm = 0.833
+
+
+Zdania
+max mfcc
+mlp = 0.852
+
+max spectral 
+mlp = 0.51
+
+max zcr 
+mlp = 0.55
+
+max chroma
+mlp = 0.61

@@ -1,0 +1,76 @@
+MFCC
+
+SVM
+ACC = 0.713
+PREC = 0.71
+REC = 0.71
+F1 = 0.71
+
+Random Forest
+ACC = 0.704
+PREC = 0.70
+REC = 0.70
+F1 = 0.70 
+
+MLP
+ACC =  0.852
+PREC = 0.86
+REC = 0.85
+F1 = 0.85 
+
+Spectral
+SVM
+ACC = 0.456
+PREC = 0.45
+REC = 0.47
+F1 = 0.42
+
+Random Forest
+ACC = 0.478
+PREC = 0.48
+REC = 0.49
+F1 = 0.48
+
+MLP
+ACC =  0.51
+PREC = 0.55
+REC = 0.52
+F1 = 0.52
+
+Zero Crossing
+SVM
+ACC = 0.366
+PREC = 0.57
+REC = 0.38
+F1 = 0.29 
+
+Random Forest
+ACC =  0.33
+PREC = 0.35
+REC = 0.33
+F1 = 0.33
+
+MLP
+ACC =  0.55
+PREC = 0.53
+REC = 0.54
+F1 = 0.52
+
+Chroma
+SVM
+ACC =  0.488
+PREC =  0.49
+REC = 0.50
+F1 = 0.48  
+
+Random Forest
+ACC =   0.588
+PREC = 0.60
+REC = 0.60
+F1 = 0.58
+
+MLP
+ACC = 0.61
+PREC = 0.62
+REC = 0.62
+F1 = 0.62
